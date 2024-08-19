@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=3V3 Pin=F1-1
+Removed Pin From Net: NetName=3V3A Pin=F1-2
+Removed Pin From Net: NetName=GND Pin=F2-1
+Removed Pin From Net: NetName=GNDA Pin=F2-2
+Removed Pin From Net: NetName=3V3 Pin=F3-1
+Removed Pin From Net: NetName=NetC31_1 Pin=F3-2
+Removed Pin From Net: NetName=3V3 Pin=F4-1
+Removed Pin From Net: NetName=NetC39_1 Pin=F4-2
+Removed Pin From Net: NetName=NetF5_1 Pin=F5-1
+Removed Pin From Net: NetName=D7 Pin=F5-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R12 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R13 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R14 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R15 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R16 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R17 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R18 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R19 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R20 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R21 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R22 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R23 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R24 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R25 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R26 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R27 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R28 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R29 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R30 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R31 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R32 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R33 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R34 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R35 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R36 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R38 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R39 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R40 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R41 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R42 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R43 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R44 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R45 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R46 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R47 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R48 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R49 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R50 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R51 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=R52 Old Footprint=AXIAL-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C1 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C2 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C3 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C10 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C41 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C42 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C43 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C47 Old Footprint=POLAR0.8 New Footprint=C_B
+Change Component Footprint: Designator=C49 Old Footprint=RAD-0.3 New Footprint=C_CYL_SMD
+Change Component Footprint: Designator=C51 Old Footprint=RAD-0.3 New Footprint=C_CYL_SMD
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C7 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C9 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C11 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C12 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C13 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C14 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C15 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C16 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C17 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C18 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C19 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C20 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C21 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C22 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C23 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C24 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C25 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C27 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C28 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C29 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C30 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C31 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C32 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C33 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C34 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C35 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C36 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C37 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C38 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C39 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C40 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C44 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C45 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C46 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C48 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C50 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C52 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C53 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C54 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C55 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C56 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C57 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C58 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C59 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C60 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C61 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C62 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C63 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C64 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C65 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C66 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C67 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C68 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C69 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C70 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C71 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C72 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C73 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Change Component Footprint: Designator=C74 Old Footprint=RAD-0.3 New Footprint=SMD_805
+Added Component: Designator=F1(SMD_805)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Component: Designator=F2(SMD_805)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Component: Designator=F3(SMD_805)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Component: Designator=F4(SMD_805)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Component: Designator=F5(SMD_805)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=F1-1
+Added Pin To Net: NetName=3V3A Pin=F1-2
+Added Pin To Net: NetName=GND Pin=F2-1
+Added Pin To Net: NetName=GNDA Pin=F2-2
+Added Pin To Net: NetName=NetC31_1 Pin=F3-1
+Added Pin To Net: NetName=3V3 Pin=F3-2
+Added Pin To Net: NetName=3V3 Pin=F4-1
+Added Pin To Net: NetName=NetC39_1 Pin=F4-2
+Added Pin To Net: NetName=NetF5_1 Pin=F5-1
+Added Pin To Net: NetName=D7 Pin=F5-2
+Added Room: Name=Schematic_Project
